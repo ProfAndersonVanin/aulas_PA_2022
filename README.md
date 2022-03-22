@@ -5,6 +5,8 @@ Criar uma conta em:
 
 https://scratch.mit.edu/
 
+Perfil do Prof no Scratch On Line ==> https://scratch.mit.edu/users/andersonvanin/
+
 # EXERCÍCIOS NO SCRATCH ON LINE
 
 1) Faça um programa no Scratch que simule uma alfandega de um aeroporto onde o limite de valor em mercadorias é de R$ 1000. Os valores excedentes a este devem ser taxados em 60%. Se os valores em mercadoria ultrapassarem este valor mostre o valor da taxa a ser paga sobre o excendente.
