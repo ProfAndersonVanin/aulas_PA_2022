@@ -1,0 +1,8 @@
+1) Lógica de Programação é a técnica de encadear pensamentos para atingir determinado objetivo.
+
+2) 	Nomes Corretos:		nome, salario, numero1
+	Nomes Incorretos:	1abc, casa&abc, area triangulo
+
+3) Instruções são um conjunto de regras ou normas definidas para realização ou emprego de algo. Em informática, éo que indica a um computador uma ação elementar a executar.
+
+4) Sequência Lógica são os passos executados até atingir um objetivo ou solução de um problema.
