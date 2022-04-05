@@ -15,6 +15,15 @@ Perfil do Prof no Scratch On Line ==> https://scratch.mit.edu/users/andersonvani
 
 ## Altere o arquivo Readme de seu github para colocar os links dos projetos executados no Scratch ##
 
+# Exemplo 01 - Scratch : https://scratch.mit.edu/projects/671429890/
+# Exemplo 02 - Scratch : 
+# Exemplo 03 - Scratch : 
+# Exemplo 04 - Scratch : 
+# Exemplo 05 - Scratch : 
+
+
+
+
 
 ## Site para a construção de fluxogramas : 
 https://app.diagrams.net/
