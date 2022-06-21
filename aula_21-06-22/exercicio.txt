@@ -1,0 +1,19 @@
+1- Uma pessoa para possuir carteira de habilitação (motorista) no Brasil, precisa ter 18 anos ou mais e ser habilitada.
+Escreva um programa que utilize somente os operadores lógicos para que com base na idade e se a mesma é habilitada, dizer como Verdadeiro ou Falso se ela pode dirigir.
+
+2- Faça um algoritmo que leia o nome do aluno, a nota total dos trabalhos, a nota da primeira e segunda avaliação, calcule a nota final e o conceito obtido seguindo a seguinte formula:
+NF = (NT + N1 + N2)/3.
+nota final for maior ou igual a 8.5, então o conceito é A.
+- nota final estiver entre 7.0 e 8.4, então o conceito é B.
+- nota final estiver entre 6.0 e 6.9, então o conceito é C.
+- nota final estiver entre 0.1 e 5.9, então o conceito é D.
+- nota final for igual a 0.0, então o conceito é E.
+
+Exemplo de como deve ser exibido na tela:
+Nota final = 6,4
+Conceito A = FALSO
+Conceito B = FALSO
+Conceito C = VERDADEIRO
+Conceito D = FALSO
+Conceito E = FALSO
+
