@@ -1,0 +1,59 @@
+Resolva essa lista de Exercícios usando o Condicional SE(IF)
+1) Faça um programa que solicite ao usuário três valores (lados de um triangulo), verifique se é um triangulo e informe se ele é isósceles, equilátero ou escaleno.
+
+2) Peça para o usuário digitar um valor informe se ele é par ou ímpar
+
+3) Faça um programa que solicite peso e altura, informe seu IMC. Ao final informe se ele está, abaixo do peso,peso ideal ou acima do peso. fórmula do IMC: (peso/altura^2), siga a tabela abaixo:
+
+IMC                  Resultado
+Menos do que 18,5  Abaixo
+Entre 18,5 e 24,9  Peso normal
+Entre 25 e 29,9  Sobrepeso
+Entre 30 e 34,9  Obgrau1
+Entre 35 e 39,9  Obesidade grau 2
+Mais do que 40          Obesidade grau 3
+
+4) Faça um programa em que o usuário informe um valor de saque no banco,crie um saldo e limite fictício, no processamento subtraia o saldo do valor que o usuário quer sacar e informe se o saldo final do cliente é positivo ou negativo. Mas não esqueça de colocar na sua lógica a expressão do limite.
+
+5) Faça um programa que solicite altura e idade do usuário, informe se ele pode ou não competir. Regras: Para competir no campeonato de vôlei o usuário de ter pelo menos 1.75 de altura e 18 anos.
+
+6) Faça um programa que solicite o peso do lutador de Boxe. Informe em que categoria de boxe o usuário está, segundo os critérios abaixo:
+
+PESO          CATEGORIA
+
+Ilimitado1 Pesado
+(90.72 kg)2 Cruzador
+(79.38 kg) Meio-Pesado
+(76.2 kg) Super Médio
+(73.03 kg) Médio
+(69.85 kg) Super Meio-Médio
+(66.68 kg) Meio-Médio
+(63.5 kg) Super Leve
+(61.23 kg) Leve
+(58.97 kg) Super Pena
+(57.15 kg) Pena
+(55.34 kg) Super Galo
+(53.52 kg) Galo
+(51.71 kg) Super Mosca
+(50.35 kg) Mosca
+(48.99 kg) Mosca Ligeiro
+(47.63 kg) Palha
+(46.27 kg) Palha Ligeiro
+
+
+7) Faça um programa que solicite o salário do usuário e informe quanto irá pagar de imposto de Renda seguindo a tabela abaixo:
+
+
+Base de cálculo            Alíquota (%)  
+Até R$1.903,98                      isento  
+De R$1.903,99 até R$2.826,65       7,5%  
+De R$2.826,66 até R$3.751,05       15%  
+De R$3.751,06 até R$4.664,68       22,5%  
+Acima de R$4.664,68                27,5%  
+
+
+8) Uma empresa dará aumento para seus funcionários. Faça um programa que execute esses cálculos, solicite o salário do funcionário e informe o aumento que o mesmo terá, seguindo os seguintes critérios:
+
+(salario menor ou igual 1500)                                           aumento de 20%
+(salario maior 1500) e (salario menor ou igual 3000)  aumento de 15%
+(salario maior 3000)                                                           aumento de 10%
