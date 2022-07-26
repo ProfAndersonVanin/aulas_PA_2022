@@ -1,0 +1,11 @@
+Algoritmo Exemplo_02
+   Entre com um valor inteiro e atribua para idade
+   Se idade >=18 entao
+      Escreva "PODE PASSAR"
+   Senao
+      Escreva "NÃO PODE PASSAR"
+   FimSe
+FimAlgoritmo
+
+
+
